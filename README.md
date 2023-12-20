@@ -28,7 +28,7 @@
 
 <br>
 
-- **Cestionnaire du stock**
+- **Gestionnaire du stock**
 
     cbcbcb
 
